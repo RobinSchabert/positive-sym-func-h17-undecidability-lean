@@ -208,9 +208,9 @@ column "development" gives the declarations it refers to (namespace `AnyDim`, fo
 
 ## AI declaration
 
-This formalization was produced with significant input from large language models. The proofs
-are checked by Lean. The statements in `AnyDim/Paper.lean` are the part that has to be compared
-with the paper by a human reader.
+This formalization was produced with significant input from large language models (manly Claude). The proofs
+are checked by Lean. The statements in `AnyDim/Paper.lean` are the part that were compared
+with the paper by us.
 
 ## Citing
 
